@@ -82,7 +82,7 @@ export const i18n = {
     auto: "Automático",
 
     // Footer
-    madeWith: "Hecho con ❤️ por",
+    madeWith: "",
     renzoTari: "Renzo Tari",
 
     // Word Editor
